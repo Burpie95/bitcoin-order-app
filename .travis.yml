@@ -6,9 +6,9 @@ dist: bionic
 sudo: required
 
 notifications:
-  email: jiongsheng.lee@ncs.com.sg
+  email: 
     recipients:
-      - email address>
+      - Jiongsheng.lee@ncs.com.sg
     on_success: always
     on_failure: always
 branches:
